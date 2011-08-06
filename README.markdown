@@ -7,10 +7,11 @@ In general it parses the available online data like server-, pilot- and controll
 
 Feel free
 =========
-If you are interessted, feel free to download and improve the code. You are welcome
+If you are interessted, feel free to download and improve the code. You are welcome ;)
 
 Thanks
 ======
 To get in detail visit the corresponding wiki page at: [https://github.com/Zilchinger/vatsim-data-api/wiki](https://github.com/Zilchinger/vatsim-data-api/wiki)
-Best regards,
+
+Best regards,  
 Zilchinger
