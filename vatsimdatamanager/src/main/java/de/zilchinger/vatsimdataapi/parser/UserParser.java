@@ -79,7 +79,7 @@ public class UserParser extends AVatsimParser {
     }
 
     /**
-     * @return list of {@link VatsimPilots}
+     * @return list of {@link VatsimPilot}
      */
     public ArrayList<VatsimPilot> getPilots() {
         return pilots;
