@@ -1,15 +1,15 @@
-package de.zilchinger.vatsimdatamanager;
+package de.zilchinger.vatsimdataapi;
 
 import java.util.ArrayList;
 
-import de.zilchinger.vatsimdatamanager.model.VatsimAirport;
-import de.zilchinger.vatsimdatamanager.model.VatsimController;
-import de.zilchinger.vatsimdatamanager.model.VatsimPilot;
-import de.zilchinger.vatsimdatamanager.model.VatsimServer;
-import de.zilchinger.vatsimdatamanager.model.VatsimStatus;
-import de.zilchinger.vatsimdatamanager.parser.ServerParser;
-import de.zilchinger.vatsimdatamanager.parser.StatusParser;
-import de.zilchinger.vatsimdatamanager.parser.UserParser;
+import de.zilchinger.vatsimdataapi.model.VatsimAirport;
+import de.zilchinger.vatsimdataapi.model.VatsimController;
+import de.zilchinger.vatsimdataapi.model.VatsimPilot;
+import de.zilchinger.vatsimdataapi.model.VatsimServer;
+import de.zilchinger.vatsimdataapi.model.VatsimStatus;
+import de.zilchinger.vatsimdataapi.parser.ServerParser;
+import de.zilchinger.vatsimdataapi.parser.StatusParser;
+import de.zilchinger.vatsimdataapi.parser.UserParser;
 
 public class VatsimDataManager implements VatsimDataObservable{
 

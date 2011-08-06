@@ -1,4 +1,4 @@
-package de.zilchinger.vatsimdatamanager.parser;
+package de.zilchinger.vatsimdataapi.parser;
 
 public interface TokenConsumer {
 

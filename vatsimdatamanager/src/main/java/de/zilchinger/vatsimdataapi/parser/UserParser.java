@@ -1,10 +1,10 @@
-package de.zilchinger.vatsimdatamanager.parser;
+package de.zilchinger.vatsimdataapi.parser;
 
 import java.util.ArrayList;
 
-import de.zilchinger.vatsimdatamanager.VatsimProgressUpdate;
-import de.zilchinger.vatsimdatamanager.model.VatsimController;
-import de.zilchinger.vatsimdatamanager.model.VatsimPilot;
+import de.zilchinger.vatsimdataapi.VatsimProgressUpdate;
+import de.zilchinger.vatsimdataapi.model.VatsimController;
+import de.zilchinger.vatsimdataapi.model.VatsimPilot;
 
 public class UserParser extends AVatsimParser{
 	

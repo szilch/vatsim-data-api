@@ -1,4 +1,4 @@
-package de.zilchinger.vatsimdatamanager.model;
+package de.zilchinger.vatsimdataapi.model;
 
 import java.io.Serializable;
 import java.util.ArrayList;

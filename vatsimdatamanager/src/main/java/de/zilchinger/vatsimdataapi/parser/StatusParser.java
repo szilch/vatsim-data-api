@@ -1,8 +1,8 @@
-package de.zilchinger.vatsimdatamanager.parser;
+package de.zilchinger.vatsimdataapi.parser;
 
 
-import de.zilchinger.vatsimdatamanager.VatsimProgressUpdate;
-import de.zilchinger.vatsimdatamanager.model.VatsimStatus;
+import de.zilchinger.vatsimdataapi.VatsimProgressUpdate;
+import de.zilchinger.vatsimdataapi.model.VatsimStatus;
 
 public class StatusParser extends AVatsimParser {
 

@@ -1,4 +1,4 @@
-package de.zilchinger.vatsimdatamanager;
+package de.zilchinger.vatsimdataapi;
 
 public interface VatsimProgressUpdate {
 

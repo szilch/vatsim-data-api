@@ -6,10 +6,13 @@ import junit.framework.Assert;
 
 import org.junit.Test;
 
-import de.zilchinger.vatsimdatamanager.model.VatsimAirport;
-import de.zilchinger.vatsimdatamanager.model.VatsimController;
-import de.zilchinger.vatsimdatamanager.model.VatsimPilot;
-import de.zilchinger.vatsimdatamanager.model.VatsimServer;
+import de.zilchinger.vatsimdataapi.VatsimDataManager;
+import de.zilchinger.vatsimdataapi.VatsimDataUpdate;
+import de.zilchinger.vatsimdataapi.VatsimProgressUpdate;
+import de.zilchinger.vatsimdataapi.model.VatsimAirport;
+import de.zilchinger.vatsimdataapi.model.VatsimController;
+import de.zilchinger.vatsimdataapi.model.VatsimPilot;
+import de.zilchinger.vatsimdataapi.model.VatsimServer;
 
 /**
  * @author Stefan Zilch

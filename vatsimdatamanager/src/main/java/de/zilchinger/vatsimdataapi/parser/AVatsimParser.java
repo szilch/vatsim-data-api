@@ -1,4 +1,4 @@
-package de.zilchinger.vatsimdatamanager.parser;
+package de.zilchinger.vatsimdataapi.parser;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
-import de.zilchinger.vatsimdatamanager.VatsimProgressUpdate;
+import de.zilchinger.vatsimdataapi.VatsimProgressUpdate;
 
 public abstract class AVatsimParser {
 

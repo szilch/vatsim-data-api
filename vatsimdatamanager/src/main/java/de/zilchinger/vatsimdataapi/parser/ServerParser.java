@@ -1,10 +1,10 @@
-package de.zilchinger.vatsimdatamanager.parser;
+package de.zilchinger.vatsimdataapi.parser;
 
 import java.util.ArrayList;
 
-import de.zilchinger.vatsimdatamanager.VatsimProgressUpdate;
-import de.zilchinger.vatsimdatamanager.model.GeneralServerData;
-import de.zilchinger.vatsimdatamanager.model.VatsimServer;
+import de.zilchinger.vatsimdataapi.VatsimProgressUpdate;
+import de.zilchinger.vatsimdataapi.model.GeneralServerData;
+import de.zilchinger.vatsimdataapi.model.VatsimServer;
 
 
 public class ServerParser extends AVatsimParser {
