@@ -1,7 +1,7 @@
 package de.zilchinger.vatsimdataapi.exception;
 
 /**
- * 
+ * General Vatsim Data Exception
  * 
  * @author Stefan Zilch - (06.08.2011)
  */
