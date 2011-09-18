@@ -63,7 +63,7 @@ public class VatsimDataManager implements VatsimDataObservable {
      * Initializes the VatsimDataManger. This has to be done before using it.
      * 
      * @param url
-     *            the url to the statuspage: e.g: http://usa-s1.vatsim.net/data/status.txt
+     *            the url to the statuspage: e.g: http://status.vatsim.net/status.txt
      */
     public void init(String url) {
         statusUrl = url;
